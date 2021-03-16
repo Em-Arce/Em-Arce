@@ -4,7 +4,7 @@
 
 📝 I’m currently learning Web Development at Avion School.
 
-🗄️  I will submit the outputs from my class in this space.
+🗄️  I will submit the outputs from my class in batch8-activities repository.
 
 😃 I’m looking for help in Javascript, Ruby on Rails and best practices in web development.
 

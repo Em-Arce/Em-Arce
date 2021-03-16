@@ -8,7 +8,7 @@
 
 😃 I’m looking for help in Javascript, Ruby on Rails and best practices in web development.
 
-⚡ Fun fact: I can wake myself up so I don't have a nightmare 😉.
+⚡ Fun fact: I can wake myself up from an impending nightmare 😉.
 
 <!--
 **Em-Arce/Em-Arce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

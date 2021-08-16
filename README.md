@@ -6,7 +6,7 @@
 
 🗄️  I will submit the outputs in batch8-activities repository (Front-End).
 
-😃 I’m looking for help in Javascript, Ruby on Rails and best practices in web development.
+😃 I’m looking for help in Javascript, Ruby, Ruby on Rails and best practices in web development.
 
 ⚡ Fun fact: I can wake myself up from an impending nightmare 😉.
 

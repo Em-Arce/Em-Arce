@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Em-Arce">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Em-Arce&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Em-Arce&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Em-Arce&theme=graywhite&layout=compact" />
 </a>
 
 <br/>

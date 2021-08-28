@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/Em-Arce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Em-Arce&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Em-Arce&count_private=true&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Em-Arce&theme=buefy&layout=compact" />
 </a>
 

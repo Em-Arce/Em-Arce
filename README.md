@@ -8,13 +8,14 @@
 
 ⚡ Fun fact: I can wake myself up from an impending nightmare.
 
----
+<br/>
 
-## 👀 Works
+<a href="https://github.com/Em-Arce">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
-| [![em-arce.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=em-arce&repo=em-arce.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/em-arce/em-arce.github.io) [GitHub Page](https://em-arce.github.io/) | 
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
+<br/>
 
 <!--
 **Em-Arce/Em-Arce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

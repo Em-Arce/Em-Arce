@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Em.
 
-🧑‍💻 Aspiring Software Engineer.
+🧑‍💻 Junior Backend Developer (Ruby on Rails).
 
 📝 I’m currently learning Web Development using Ruby on Rails at Avion School.
 
-😃 I’m looking for help in Javascript, Ruby, Ruby on Rails and best practices in web development.
+😃 I’m looking for help in Ruby, Ruby on Rails and best practices in API development.
 
 ⚡ Fun fact: I can wake myself up from an impending nightmare.
 

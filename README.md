@@ -2,7 +2,7 @@
 
 🧑‍💻 Junior Backend Developer (Ruby on Rails).
 
-📝 I’m recently finished Full Stack Web Development Course at Avion School.
+📝 I recently finished Full Stack Web Development Course at Avion School.
 
 😃 I’m looking for help in Ruby, Ruby on Rails and best practices in API development.
 

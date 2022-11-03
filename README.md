@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Em.
 
-🧑‍💻 Junior Backend Developer (Ruby on Rails).
+🧑‍💻 Backend Developer (Ruby on Rails).
 
 📝 I recently finished Full Stack Web Development Course at Avion School.
 
